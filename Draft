@@ -5,3 +5,11 @@ Discuss a framework for deciding when to use react loops vs workflows with LLMs.
 Idea #2
 
 Discuss security and how to secure LLM apps
+
+Idea #3
+
+Process for doing evals: Rags vs Workflow vs full blown agentic. How to monitor properly.
+
+Idea #4
+
+Agentcore best practices.
