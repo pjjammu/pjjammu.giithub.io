@@ -1,0 +1,3 @@
+Ideas for next post:
+
+Discuss a framework for deciding when to use react loops vs workflows with LLMs. Present a spectrum with deterministic code on one end and an autonomous agent on the other. Discuss the decision around factors: latency, stake/risk, cost, type of task (and more)
